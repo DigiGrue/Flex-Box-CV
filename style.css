@@ -151,12 +151,17 @@ border-radius: 50%;
         margin: 0px;
         margin-top: -228px;
         }
+        .Middle1-Middle li a {
+            color: yellow;
+        }
         .section5 {
             margin-top: -30px;
                     }
         .section6 {
             margin: -5px;
-        }
+                  }
+                
+        
         .Middle1-Right {
             display: flex;
             justify-content: flex-start;
@@ -246,8 +251,10 @@ border-radius: 50%;
         box-shadow: 5px 10px #ffffff;
         color: #ffffff;
         margin-top: -140px;
-       
-         }
+       }
+       .Bottom1-Middle li a {
+        color: yellow;
+       }
         .Experience1 {
             font-size: 20px;
             margin-top: 0px;
